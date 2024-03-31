@@ -10,7 +10,8 @@
  	
  	
  EXÉCUTION:
-	1- Se positionner dans le repertoire du programe : cd /path/Process_Thread
+	0- Dézipper le projet.
+	1- Se positionner dans le repertoire du programe : cd /path/INF4218_Devoir1_Mebenga_Mballa_Jean_20U2782
 	2- Executer la commande : make
 	3- Exécuter le le fichier executable : ./process_thread << nombre de processus >> << nombre de thread >>
 	
